@@ -9,14 +9,14 @@
 - **show vlan _(sh vl)_** - pelne wyswietlenie informacji o vlanach na urzadzeniu
 	- **show vlan brief _(sh vl vr)_** - skrotowe wyswietlenie informacji o vlanach na urzadzeniu
 ## wstepna konfiguracja
-- **enable** **_(en)_** --- zawsze na poczatku piszesz
-- **configure terminal** **_(conf t)_** --- wejscie do konfiguracji terminala routera
-- **interface {interface}** **(int {interfejs} )** ***np [int se0/0/1]*** --- wybierasz kabel do konfiguracji
-     - **ip address {adres} {maska}** **_(ip add {adres} {maska} )** ***np [ip add 192.168.0.1 255.255.255.0]*** --- adresacja kabla
-     - **no shutdown** **(no shut)** --- wlaczenie kabla WAZNE ZAWSZE PISZ
+- **enable** **_(en)_** --- zawsze na poczatku piszesz zeby wlaczyc urzadzenie
+- **configure terminal** **_(conf t)_** --- wejscie do konfiguracji terminala urzadzenia
+- **interface {interface}** **(int {interfejs} )** ***np [int se0/0/1]*** --- wybierasz interfejs do konfiguracji
+     - **ip address {adres} {maska}** **_(ip add {adres} {maska} )** ***np [ip add 192.168.0.1 255.255.255.0]*** --- adresacja interfejsu
+     - **no shutdown** **(no shut)** --- wlaczenie interfejsu WAZNE ZAWSZE PISZ
 
 ## nawigacja
-- **exit** --- cofa o jedno dzialanie w konfiguracji czyli np z konfiguracji kabla cofa na konfiguracje terminala spowrotem
+- **exit** --- cofa o jedno dzialanie w konfiguracji czyli np z konfiguracji interfejsu cofa na konfiguracje terminala spowrotem
 - **end** --- cofa sie na sam poczatek konfiguracji do stanu router#
 
 
