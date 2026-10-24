@@ -5,6 +5,10 @@
 
 - [[cipsko packet tracer zgapka aka notatka]]
 
+- [[NAT.excalidraw]]
+
+- [[VLSM cwiczenia.excalidraw]]
+
 ## lekcje
 
 - [[PSK - Hierarchiczny Model Sieci]]

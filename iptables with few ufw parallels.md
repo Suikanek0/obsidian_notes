@@ -1,4 +1,4 @@
-created this note so my lazy ass wouldn't depend on ufw while managing my whole home network + port forwarding through debian machine... need to learn ts so i wont be prey for russian cyka blyat haxors!!!!
+lklcreated this note so my lazy ass wouldn't depend on ufw while managing my whole home network + port forwarding through debian machine... need to learn ts so i wont be prey for russian cyka blyat haxors!!!!
 ## basic commands
 
 ```

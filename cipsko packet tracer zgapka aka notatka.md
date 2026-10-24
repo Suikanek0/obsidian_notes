@@ -1,4 +1,4 @@
-
+	1
 ### w nawiasie {} sa argumenty komend. w nawiasie **()** sa akceptowalne przez cisco skroty komend. 
 
 ## komendy show (jest ich w pizde wiec najwazniejsze ***imo*** )
